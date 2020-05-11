@@ -1,0 +1,8 @@
+{
+  "name": "elec-sign",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "d76c7dca"
+}
